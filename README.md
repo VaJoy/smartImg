@@ -11,3 +11,4 @@ smartImg
 ### 当然，如果图片地址前缀是一样的，我们还可以加上s-prefix属性：
 		<img s-prefix="img/" s-src="large.jpg 900,huge.jpg 1200,middle.jpg 650,small.jpg 0" />
 ### 查看效果请运行demo.html
+### 若是动态生成或删除页面图片，可以在事件后执行 $.smartImg() 方法即可。
