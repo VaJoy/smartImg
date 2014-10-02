@@ -1,8 +1,8 @@
 smartImg
 =======
-
-		响应式图片处理工具
-		author:[VaJoy Larn](http://www.cnblogs.com/vajoy/)<br />
+响应式图片处理工具
+------
+author:[VaJoy Larn](http://www.cnblogs.com/vajoy/)<br />
 ### 使用方法
 ### 在 img 标签中添加 s-src="图片地址1 屏宽1,图片地址2 屏宽2, ..., 图片地址n 屏宽n," ，若屏宽参数没写则默认为0
 ### 如下例子：
